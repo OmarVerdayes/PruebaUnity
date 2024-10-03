@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class playerController : MonoBehaviour
 {
-    public float moveSpeed = 5.0f;//velocidad del jugador
+    public float moveSpeed = 1f;//velocidad del jugador
     public Transform camara;
     private Rigidbody rb;//
 
